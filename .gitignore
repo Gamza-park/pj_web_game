@@ -42,3 +42,7 @@
 *.tlog
 *.idb
 *.lastbuildstate
+
+#
+*.DS_Store
+*.idea/

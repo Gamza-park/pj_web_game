@@ -1,6 +1,6 @@
 # directory
 /build/
-/node_modules/
+node_modules
 /dist/
 # complied obj files
 *.slo
